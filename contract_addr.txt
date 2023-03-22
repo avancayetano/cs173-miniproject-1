@@ -1,0 +1,3 @@
+The contract was deployed on Limanet.
+
+CONTRACT ADDRESS: KT1QasZ9EsVQZ5karVQNfYHq6krd2ck99VY1
