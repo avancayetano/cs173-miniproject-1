@@ -1,1 +1,1 @@
-# cs173-miniproject-1
+# CS 173 Mini-Project 1
